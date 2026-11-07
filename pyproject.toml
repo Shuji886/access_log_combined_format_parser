@@ -1,6 +1,6 @@
 [project]
 name = "access-log-combined-format-parser"
-version = "0.1.0"
+version = "0.1.1"
 description = "Decodes Apache and Nginx access log entries into structured fields using only the standard library."
 requires-python = ">=3.10"
 dependencies = []
